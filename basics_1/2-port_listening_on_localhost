@@ -1,5 +1,4 @@
-#!/bin/bash/env bash
-
+#!/usr/bin/env bash
 # Netcat ile localhost üzerinde 127.0.0.1:98 portunu dinle
 # -k : Bağlantı kapansa bile dinlemeye devam et
 # -l : Dinleme moduna geç
