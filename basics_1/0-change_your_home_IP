@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 # Hosts dosyasının yolu
 HOSTS_FILE="/etc/hosts"
 
